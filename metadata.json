@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Meen Page",
+  "description": "แอปพลิเคชัน WebView แสดงผลหน้าเว็บ https://meen.page.gd เต็มหน้าจอ พร้อมระบบจัดการปุ่มกดย้อนกลับภายในเว็บ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
